@@ -68,26 +68,33 @@ Note 2: Gauntlets that has been marked `*` appears only when `binaryVersion` is 
   | 29| Halloween|
   | 30| Treasure|
   | 31| Ghost|
-  | 32| Gem|
-  | 33| Inferno|
-  | 34| **Portal**|
-  | 35| **Strange**|
-  | 36| **Fantasy**|
-  | 37| Christmas|
-  | 38| Surprise|
-  | 39| **Mystery**|
-  | 40| **Cursed**|
-  | 41| Cyborg|
-  | 42| **Castle**|
-  | 43| Grave|
-  | 44| Temple|
+  | 32| Spider|
+  | 33| Gem|
+  | 34| **Inferno**|
+  | 35| **Portal**|
+  | 36| **Strange**|
+  | 37| **Fantasy**|
+  | 38| Christmas|
+  | 39| Surprise|
+  | 40| **Mystery**|
+  | 41| **Cursed**|
+  | 42| **Cyborg**|
+  | 43| **Castle**|
+  | 44| Grave|
+  | 45| Temple|
   | 46| **World**|
   | 47| **Galaxy**|
   | 48| **Universe**|
   | 49| **Discord**|
   | 50| **Split**|
+<<<<<<< HEAD
   | 51*| **NCS I**|
   | 52*| **NCS II**|
+=======
+  | 51| NCS I|
+  | 52| NCS II|
+
+>>>>>>> pr-47
 ### Trivia
 
 - Gauntlets use the same response parser as [MapPacks](/resources/server/mappack) but they do not share the full range of features mappacks have
